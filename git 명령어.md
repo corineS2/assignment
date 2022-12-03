@@ -105,6 +105,11 @@ $git commit -am
 ```
 $git pull
 ```
+### 원격저장소에서 로컬 저장소로 가져오기
+차이점 : 로컬 저장소와 원격 저장소의 변경 사항이 다를 때 이를 비교 대조하고 git merge 명령어와 함께 최신 데이터를 반영하거나 충돌 문제 등을 해결
+```
+$git fetch <remote>
+```
 
 ## 로컬저장소에서 원격 저장소로 내보내기
 ```
@@ -205,9 +210,22 @@ $git restore
 $git restore --staged
 ```
 
+## 현재브랜치에서 대상브랜치를 병합(= fast forward merge)
+서로 다른 상태를 병합하는 것이 아닌, main을 my-branch 위치로 이동
+```
+$git merge 브랜치명
+```
 
+### non fast forward로 merge(= 3-way merge)
+하나의 브랜치와 다른 브랜치의 모든 변경 이력 합치기
+```
+$git merge --no-ff 브랜치명
+```
 
-
-
+## 한 브랜치에서 다른 브랜치를 이어붙이기 병합
+히스토리가 선형으로 단순
+```
+$ git rebase 브랜치명
+```
 
 
