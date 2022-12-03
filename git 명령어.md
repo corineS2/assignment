@@ -228,4 +228,27 @@ $git merge --no-ff 브랜치명
 $ git rebase 브랜치명
 ```
 
+## 과거로 돌아가기, 과거로 되돌아 간 이후의 사건들은 모두 사라짐
+이동된 커밋의 내용으로 WD, SA, GR 모두 적용
+```
+$git reset --hard 커밋ID
+```
+
+이동된 커밋의 내용으로 SA, GR 적용
+```
+$git reset --mixed 돌아가고 싶은 커밋ID
+```
+
+이동된 커밋의 내용으로 GR 적용
+```
+$git reset --soft 커밋ID
+```
+
+## 과거 특정 사건을 없던 일로 만들기
+revert를 했다는 이력이 남음
+```
+$git revert 돌아가고싶은 커밋ID
+```
+
+
 
