@@ -1,6 +1,5 @@
-![image](https://user-images.githubusercontent.com/112846273/205464746-3d0df292-3576-48bd-82a8-3e72f1ba14b8.png)
-![1_IelAxduwS_YtpsrlRe1d0Q](https://user-images.githubusercontent.com/112846273/205464750-b6b22f7d-2ffe-44a3-815e-7a71b9a0b79f.png)
-<img width="586" alt="화면 캡처 2022-12-04 074114" src="https://user-images.githubusercontent.com/112846273/205465042-2c1d751f-5d1c-485c-8057-f1dd34e7148b.png">
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/112846273/205465451-7cec67a3-e72e-4c4b-a3c5-932f7b00976a.png">
+<img width="562" alt="화면 캡처 2022-12-04 075305" src="https://user-images.githubusercontent.com/112846273/205465468-0bd63c5b-784c-4d8e-8c56-44e03a9dc079.png">
 
 
 ### 출처
