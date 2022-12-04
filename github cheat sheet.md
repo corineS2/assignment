@@ -1,5 +1,4 @@
-<img width="569" alt="image" src="https://user-images.githubusercontent.com/112846273/205465451-7cec67a3-e72e-4c4b-a3c5-932f7b00976a.png">
-<img width="562" alt="화면 캡처 2022-12-04 075305" src="https://user-images.githubusercontent.com/112846273/205465468-0bd63c5b-784c-4d8e-8c56-44e03a9dc079.png">
+<img width="592" alt="화면 캡처 2022-12-05 052316" src="https://user-images.githubusercontent.com/112846273/205513721-39e6cac2-5068-44a4-92fc-3e2bd523075b.png">
 
 
 ### 출처
